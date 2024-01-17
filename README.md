@@ -6,5 +6,5 @@ This web app lets you track an ip address. I used html,css and Javascript for th
 
 ## Screenshots
 
-![App Screenshot](https://imgur.com/a/S38p2tG)
+![App Screenshot](https://imgur.com/rCuuYJn)
 
